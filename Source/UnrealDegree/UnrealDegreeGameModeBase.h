@@ -6,9 +6,7 @@
 #include "GameFramework/GameModeBase.h"
 #include "UnrealDegreeGameModeBase.generated.h"
 
-/**
- * 
- */
+
 UCLASS()
 class UNREALDEGREE_API AUnrealDegreeGameModeBase : public AGameModeBase
 {
