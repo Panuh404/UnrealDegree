@@ -32,15 +32,11 @@ To run the project locally on your machine, follow these steps:
 + [UPROPERTY Guide](https://benui.ca/unreal/uproperty/)
 + [Console Variables C++](https://docs.unrealengine.com/5.2/en-US/console-varaibles-cplusplus-in-unreal-engine/)
 
-### Introduction
 - Naming Conventions:
    + [Allar's Guide](https://github.com/Allar/ue5-style-guide)
    + Consistent naming allow quick Ctrl+P asset searches
 - Comprehending Projects and File Structure:
    + [Introduction to the Launcher](https://dev.epicgames.com/community/learning/courses/qpR/unreal-engine-comprehending-projects-and-file-structure/jR8/introduction-to-the-launcher)
-
-### Project Start
-
 - Class Hierarchy: Object -> Actor -> Pawn -> Character -> MyCharacter (Example: SCharacter)
   - More -> [Gameplay Framework Guide](https://www.tomlooman.com/unreal-engine-gameplay-framework/)
 - Class Prefixes:
@@ -56,6 +52,7 @@ To run the project locally on your machine, follow these steps:
     * [UFUNCTION Examples](https://www.tomlooman.com/unreal-engine-ufunction-specifiers/)
     * [All Property Specifiers](https://docs.unrealengine.com/5.2/en-US/unreal-engine-uproperty-specifiers/)
     * [All Function Specifiers](https://docs.unrealengine.com/5.2/en-US/function-specifiers/)
+
 
 ## License
 

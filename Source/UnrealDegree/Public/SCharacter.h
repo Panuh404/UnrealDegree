@@ -14,6 +14,10 @@ class UNREALDEGREE_API ASCharacter : public ACharacter
 {
 	GENERATED_BODY()
 
+protected:
+	UPROPERTY(EditAnywhere)
+	TSubclassOf<AActor> ProjectileClass;
+
 public:
 	ASCharacter();
 
@@ -28,6 +32,7 @@ protected:
 
 	void MoveForward(float value);
 	void MoveRight(float value);
+	void PrimaryAttack();
 
 public:	
 	virtual void Tick(float DeltaTime) override;
